@@ -1,11 +1,11 @@
-# controllers-routes-views
+# Portfolio
 
 ## Set-up
 - Create app/db/etc.
 
 ## Controller
-1. rails g controller something
-2. in a method, render html: "something" 
+1. rails g controller < something >
+2. in a method, render html: "< something >" 
 3. "no route matches"
 
 ## Route
